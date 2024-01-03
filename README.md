@@ -45,7 +45,8 @@ Enjoy adding binary numbers with this simple Java program!
 # Programma di Addizione Binaria
 
 ## Panoramica
-Questo programma Java esegue l'addizione binaria per due numeri binari di input. Assicura che i numeri siano allineati aggiungendo zeri iniziali al numero binario più corto.
+Questo programma Java esegue l'addizione binaria per due numeri binari di input. 
+Assicurati che i numeri siano allineati aggiungendo zeri iniziali al numero binario più corto.
 
 ## Come Utilizzare
 1. Esegui il programma eseguendo il file `BinaryAddition.java`.
