@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Exclude IntelliJ IDEA files
+.idea/
+*.iml
+# Exclude folders files
+out/
+test/
+nbproject/
+build/
+.vscode
+# Exclude git ignore
+.gitignore
+#Eclude
+build.xml
+manifest.mf
+sommaBinaria.iml

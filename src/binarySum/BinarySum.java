@@ -1,8 +1,8 @@
-package sommabinaria;
+package binarySum;
 
 import java.util.Scanner;
 
-public class SommaBinaria {
+public class BinarySum {
     public static void main(String[] args) {
         Scanner utente = new Scanner(System.in);
         System.out.println("Questo programma somma 2 valori binari");
@@ -45,4 +45,5 @@ public class SommaBinaria {
         System.out.println("I numeri inseriti sono  " + primoNum + "   " + secondoNum);
 
     }
+
 }
